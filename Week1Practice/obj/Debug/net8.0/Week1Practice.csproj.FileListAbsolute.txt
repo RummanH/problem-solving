@@ -12,3 +12,4 @@ C:\Applications\problem-solving\Week1Practice\obj\Debug\net8.0\refint\Week1Pract
 C:\Applications\problem-solving\Week1Practice\obj\Debug\net8.0\Week1Practice.pdb
 C:\Applications\problem-solving\Week1Practice\obj\Debug\net8.0\Week1Practice.genruntimeconfig.cache
 C:\Applications\problem-solving\Week1Practice\obj\Debug\net8.0\ref\Week1Practice.dll
+C:\Applications\problem-solving\Week1Practice\obj\Debug\net8.0\Week1Practice.sourcelink.json
